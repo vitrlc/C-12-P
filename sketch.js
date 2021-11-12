@@ -1,7 +1,7 @@
 var jakeImg, pathImg, path, jake, left_boundary, right_boundary, subway, subwayImg, coin, coinImg, coinscore,song,slider;
 function preload(){
  
-  jakeImg=loadAnimation("Jake1.png", "Jake2.png", "jake3.png", "jake4.png", "jake5.png");
+  jakeImg=loadAnimation("Jake1.png", "Jake2.png", "jake3.png", "jake4.PNG");
   pathImg=loadImage("path.png");
   
   coinImg=loadImage("coin.png");
